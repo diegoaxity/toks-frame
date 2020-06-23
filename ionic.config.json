@@ -1,5 +1,7 @@
 {
   "name": "toks-frame",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
